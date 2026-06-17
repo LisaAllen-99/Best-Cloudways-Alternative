@@ -1,0 +1,13 @@
+name: Best Cloudways Alternative
+description: Compare the best Cloudways alternatives including Kinsta, WP Engine, SiteGround, Vultr, DigitalOcean and more.
+author: LisaAllen-99
+
+branding:
+  icon: cloud
+  color: blue
+
+runs:
+  using: composite
+  steps:
+    - run: echo "Best Cloudways Alternative 2026"
+      shell: bash
